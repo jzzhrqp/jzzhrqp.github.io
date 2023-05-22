@@ -4,6 +4,8 @@ baidu.com
 bing.com
 puteyun.online:9901
 cloudfon.net:9001
+feishu.cn
+puteyun.com
 csdn.net
 gitee.com
 wxcloudrun.com
